@@ -16,7 +16,7 @@ timezone:
 
 title: LeeJinUk # the main title
 
-tagline: 시스템, 네트워크, 보안, 클라우드 관련 내용을 다룹니다. # it will display as the subtitle
+tagline: 시스템, 네트워크, 보안, 클라우드 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   It covers systems, networks, security, and the cloud.
